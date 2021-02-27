@@ -1,7 +1,7 @@
 # Daily Planner
 
 ## Description
-This website was created to showcase my present and future work as I progress through my University of Utah coding bootcamp and career.
+A day planner that dynamically keeps track of past, present and future entries relative to the hour of the day.
 
 
 ## Built With
